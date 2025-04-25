@@ -1,0 +1,10 @@
+{
+  "API_KEY": "API_KEY",
+  "DEFAULT_TIME_WINDOW_HOURS": 24,
+  "MAX_RESULTS": 10,
+  "SEARCH_QUERY": "slots",
+  "APP_TITLE": "热门视频获取工具",
+  "WINDOW_SIZE": "600x500",
+  "MIN_WINDOW_WIDTH": 500,
+  "MIN_WINDOW_HEIGHT": 400
+}
